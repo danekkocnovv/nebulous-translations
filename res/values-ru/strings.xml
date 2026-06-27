@@ -1226,7 +1226,7 @@
     <string name="Win_100_Tournaments">Выиграть 100 турниров</string>
     <string name="HERO">ГЕРОЙ</string>
     <string name="CHAMPION">ЧЕМПИОН</string>
-    <string name="DASH">РЫВОК</string>
+    <string name="DASH">Рывок</string>
     <string name="setting_changed">Настройки обновлены. Возможно, понадобится переподключиться к серверу, чтобы настройки вступили в силу.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Сделать 10.000 триков в режим трюков.</string>
     <string name="Tricky">Трюкач</string>
@@ -1318,7 +1318,7 @@
     <string name="x5_XP_1_Hour">5X XP НА 1 ЧАС</string>
     <string name="x5_XP_24_hours">5X XP НА 24 ЧАСА</string>
     <string name="x5_XP_Permanent">ВЕЧНЫЙ 5X XP</string>
-    <string name="CAMPAIGN_2">КАМПАНИЯ 2</string>
+    <string name="CAMPAIGN_2">Кампания 2</string>
     <string name="XP_5x">XP 5x</string>
     <string name="India">Индия</string>
     <string name="Tutorial">ОБУЧЕНИЕ</string>
