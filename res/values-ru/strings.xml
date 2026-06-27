@@ -45,7 +45,7 @@
     <string name="CONNECTED">"Подключение"</string>
     <string name="JOINING___">"Присоединение…"</string>
     <string name="PLAYING">"ИГРАТЬ"</string>
-    <string name="MULTIPLAYER">"МУЛЬТИПЛЕЕР"</string>
+    <string name="MULTIPLAYER">"Мультиплеер"</string>
 
     <string name="JOIN">"ПРИСОЕДИНИТЬСЯ"</string>
 
@@ -142,7 +142,7 @@
     <string name="TEAMS">"Команды"</string>
     <string name="TEAMS_TIME">"Команды (Время)"</string>
     <string name="CTF">"CTF (Захват флага)"</string>
-    <string name="SURVIVAL">"ВЫЖИВАНИЕ"</string>
+    <string name="SURVIVAL">"Выживание"</string>
 
 
     <string name="Clan_XP">"Опыт клана"</string>
@@ -613,7 +613,7 @@
     <string name="You_must_be_signed_in_to_Google_">"Необходима авторизация через Google."</string>
 
 
-    <string name="MAYHEM">"ХАОС"</string>
+    <string name="MAYHEM">"Хаос"</string>
     <string name="eggs_">"яиц."</string>
     <string name="Egg_Collector">"Собиратель яиц"</string>
     <string name="Egg_Hoarder">"Корзинка с яйцами"</string>
